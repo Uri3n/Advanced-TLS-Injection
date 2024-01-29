@@ -1,6 +1,7 @@
 # Advanced-TLS-Injection
 ### A direct improvement to remote TLS Injection. Proof of concept
 
+*A write-up will be coming for this soon, at which point I will update the readme.*
 This is a PoC technique I created that has a similar objective to the one found by mrd0x, the founder of Maldev Academy.
 The difference lies in the fact that this version can be performed on essentially *ANY* remote process you'd like,
 making it significantly more powerful.
