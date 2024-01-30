@@ -1,5 +1,5 @@
-# Advanced-TLS-Injection
-### A direct improvement to remote TLS Injection. Proof of concept
+# Advanced-TLS-Injection-PoC
+### A direct improvement to remote TLS Injection. Proof of concept.
 
 *A write-up will be coming for this soon, at which point I will update the readme.*
 
