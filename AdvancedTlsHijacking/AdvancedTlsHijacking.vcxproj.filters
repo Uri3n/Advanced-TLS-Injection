@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="injection.cpp">
+    <ClCompile Include="src\injection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="defs.hpp">
+    <ClInclude Include="include\defs.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="main.hpp">
+    <ClInclude Include="include\main.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="functionPtrs.hpp">
+    <ClInclude Include="include\functionPtrs.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="structures.hpp">
+    <ClInclude Include="include\structures.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="injection.hpp">
+    <ClInclude Include="include\injection.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

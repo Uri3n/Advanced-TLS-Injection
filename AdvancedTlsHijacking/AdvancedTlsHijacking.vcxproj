@@ -128,15 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="injection.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\injection.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="defs.hpp" />
-    <ClInclude Include="functionPtrs.hpp" />
-    <ClInclude Include="injection.hpp" />
-    <ClInclude Include="main.hpp" />
-    <ClInclude Include="structures.hpp" />
+    <ClInclude Include="include\defs.hpp" />
+    <ClInclude Include="include\functionPtrs.hpp" />
+    <ClInclude Include="include\injection.hpp" />
+    <ClInclude Include="include\main.hpp" />
+    <ClInclude Include="include\structures.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
