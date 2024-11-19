@@ -1,5 +1,5 @@
 # Advanced-TLS-Injection-PoC
-### A direct improvement to remote TLS Injection. Proof of concept.
+### A Threadless Injection Technique That Abuses TLS callbacks
 
 I did a write-up on this. Check it out here: https://urien.gitbook.io/diago-lima/abusing-tls-callbacks-for-payload-execution
 
