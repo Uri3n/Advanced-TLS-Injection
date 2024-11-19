@@ -3,7 +3,6 @@
 #include <winternl.h>
 
 
-
 typedef PVOID PAPI_SET_NAMESPACE;
 
 typedef struct _UNDOCPEB
