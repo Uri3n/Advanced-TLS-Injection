@@ -158,7 +158,7 @@ unsigned char Shellcode[] = {
 int wmain(int argc, wchar_t** argv)
 {
     if (argc != 2) {
-        std::cout << "[USAGE:] specify target process PID. Example: \"AdvancedTLSHijacking.exe 3341\"" << std::endl;
+        std::cout << "[USEAGE:] specify target process PID. Example: \"AdvancedTLSHijacking.exe 3341\"" << std::endl;
         return 0;
     }
 
