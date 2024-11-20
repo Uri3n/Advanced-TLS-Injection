@@ -1,7 +1,7 @@
 # Advanced-TLS-Injection-PoC
 ### A Threadless Injection Technique That Abuses TLS callbacks
 
-I did a write-up on this. Check it out here: https://urien.gitbook.io/diago-lima/abusing-tls-callbacks-for-payload-execution
+I did a write-up on this. Check it out here: https://masq.foo/html/posts/tlscallbacks.html
 
 This is a PoC technique I created that has a similar objective to the technique found by mrd0x, the founder of Maldev Academy.
 The difference lies in the fact that this version can be performed on essentially *ANY* remote process you'd like,
