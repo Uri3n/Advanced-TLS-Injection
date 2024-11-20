@@ -1,5 +1,5 @@
 # Advanced-TLS-Injection-PoC
-### A Threadless Injection Technique That Abuses TLS callbacks
+### A Threadless Injection Technique That Abuses TLS callbacks.
 
 I did a write-up on this. Check it out here: https://masq.foo/html/posts/tlscallbacks.html
 
